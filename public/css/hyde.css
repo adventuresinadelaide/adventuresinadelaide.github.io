@@ -62,7 +62,7 @@ html {
   /*background-image: url("http://40.media.tumblr.com/b829b30e0023504e20bfb895a8d4d1d1/tumblr_nhpc8naQcg1ta0hnbo1_1280.jpg");*/
 }
 
-.background-image{
+.sidebar .background-image{
     position: fixed;
     left: 0;
     right: 0;
@@ -71,7 +71,7 @@ html {
     display: block;
     background-image: url("http://40.media.tumblr.com/b829b30e0023504e20bfb895a8d4d1d1/tumblr_nhpc8naQcg1ta0hnbo1_1280.jpg");
     
-    filter: blur(100px);
+    filter: blur(10px);
 }
 
 @media (min-width: 48em) {
