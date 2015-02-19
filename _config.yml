@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Adventures in Adelaide
-tagline:          'Paige\'s Adventures in Adelaide!'
+tagline:          'Paiges Adventures in Adelaide!'
 description:      'A study abroad travel blog.'
 url:              http://hyde.getpoole.com
 baseurl:          /
