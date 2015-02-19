@@ -56,7 +56,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 1rem 0.5rem 2rem 0.5rem;
-  color: rgba(255,255,255,.5);
+  color: #000, rgba(255,255,255,.5);
   background-color: #202020;
   background-image: url("http://40.media.tumblr.com/b829b30e0023504e20bfb895a8d4d1d1/tumblr_nhpc8naQcg1ta0hnbo1_1280.jpg");
 }
