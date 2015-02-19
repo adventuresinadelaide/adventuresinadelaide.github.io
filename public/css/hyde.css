@@ -54,8 +54,8 @@ html {
  */
 
 .sidebar {
-/*  text-align: center;*/
-  padding: 1rem 0.5rem 2rem 0.5rem;
+  text-align: center;
+  /*padding: 1rem 0.5rem 2rem 0.5rem;*/
   color: #000, rgba(255,255,255,.5);
   background-color: #202020;
   background-image: url("http://40.media.tumblr.com/b829b30e0023504e20bfb895a8d4d1d1/tumblr_nhpc8naQcg1ta0hnbo1_1280.jpg");
@@ -205,7 +205,7 @@ a.sidebar-nav-item:focus {
   color: #f4bf75;
 }
 
-/* Green */
+* Green */
 .theme-base-0b .sidebar {
   background-color: #90a959;
 }
@@ -249,3 +249,4 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
