@@ -58,11 +58,11 @@ html {
   text-shadow: 2px 1px 5px #666;
   padding: 0;
   color: #ffffff;
-  background-color: #202020;
-  /*background-image: url("http://40.media.tumblr.com/b829b30e0023504e20bfb895a8d4d1d1/tumblr_nhpc8naQcg1ta0hnbo1_1280.jpg");*/
+  /*background-color: #202020;
+  background-image: url("http://40.media.tumblr.com/b829b30e0023504e20bfb895a8d4d1d1/tumblr_nhpc8naQcg1ta0hnbo1_1280.jpg");*/
 }
 
-.sidebar .background-image{
+.background-image{
     position: fixed;
     left: 0;
     right: 0;
