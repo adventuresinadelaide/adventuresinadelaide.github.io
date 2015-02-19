@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Adventures in Adelaide
 tagline:          'Paiges Adventures in Adelaide!'
 description:      'A study abroad travel blog.'
-url:              http://hyde.getpoole.com
+url:              http://adventuresinadelaide.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Paige Bettge'
+  url:            
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/adventuresinadelaide/adventuresinadelaide.github.io
