@@ -138,14 +138,18 @@ a.sidebar-nav-item:focus {
   .content {
     max-width: 38rem;
     margin-left: 20rem;
-    margin-right: 2rem;
+    margin-right: 2rem;      
+  background-image: url("symphony.png");
+  background-repeat: repeat;
   }
 }
 
 @media (min-width: 64em) {
   .content {
     margin-left: 22rem;
-    margin-right: 4rem;
+    margin-right: 4rem;      
+  background-image: url("symphony.png");
+  background-repeat: repeat;
   }
 }
 
