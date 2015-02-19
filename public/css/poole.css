@@ -45,8 +45,6 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-image: url("http://i.imgur.com/ljSIJdN.png");
-  background-repeat: repeat;
 }
 
 html {
@@ -295,9 +293,6 @@ tbody tr:nth-child(odd) th {
   padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
-    
-  background-image: url("http://i.imgur.com/ljSIJdN.png");
-  background-repeat: repeat;
 }
 
 
