@@ -55,7 +55,8 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 0.5 rem;
+  text-shadow: 2px 2px #ccc;
+  padding: 0.5rem;
   color: #000, rgba(255,255,255,.5);
   background-color: #202020;
   background-image: url("http://40.media.tumblr.com/b829b30e0023504e20bfb895a8d4d1d1/tumblr_nhpc8naQcg1ta0hnbo1_1280.jpg");
@@ -87,7 +88,7 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 .sidebar-nav-item {
   display: block;
