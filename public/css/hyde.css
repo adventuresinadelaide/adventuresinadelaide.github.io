@@ -55,9 +55,9 @@ html {
 
 .sidebar {
   text-align: center;
-  text-shadow: 1px 1px #666;
+  text-shadow: 2px 1px 5px #666;
   padding: 0;
-  color: #fff, rgba(255,255,255,.5);
+  color: #ffffff, rgba(255,255,255,.5);
   background-color: #202020;
   background-image: url("http://40.media.tumblr.com/b829b30e0023504e20bfb895a8d4d1d1/tumblr_nhpc8naQcg1ta0hnbo1_1280.jpg");
 }
@@ -75,12 +75,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: #ffffff;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: #ffffff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 2.5rem;
