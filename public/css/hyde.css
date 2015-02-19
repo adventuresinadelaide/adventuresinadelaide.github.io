@@ -59,7 +59,8 @@ html {
   padding: 0;
   color: #ffffff;
   background-color: #202020;
-  background-image: url("http://finda.photo/image/3393/thumbnail/original/");
+  background-image: url("http://finda.photo/image/3393/thumbnail/original/"); 
+  background-repeat: no-repeat;
 }
 
 @media (min-width: 48em) {
