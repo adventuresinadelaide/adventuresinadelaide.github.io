@@ -59,8 +59,9 @@ html {
   padding: 0;
   color: #ffffff;
   background-color: #202020;
-  background-image: url("http://content.finda.photo/lifeofpix/vacancy.jpg"); 
+  background-image: url("http://content.finda.photo/unsplash/gfctvxvyvLk.jpg"); 
   background-repeat: no-repeat;
+  background-size: auto;
 }
 
 @media (min-width: 48em) {
