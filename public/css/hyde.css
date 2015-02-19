@@ -61,7 +61,7 @@ html {
   background-color: #202020;
   background-image: url("http://content.finda.photo/unsplash/gfctvxvyvLk.jpg"); 
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: contain;
 }
 
 @media (min-width: 48em) {
