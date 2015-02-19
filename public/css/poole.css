@@ -45,8 +45,6 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-image: url("public/symphony.png");
-  background-repeat: repeat;
 }
 
 html {
@@ -63,7 +61,7 @@ html {
 body {
   color: #515151;
   background-color: #fff;
-  background-image: url("public/symphony.png");
+  background-image: url("http://i.imgur.com/ljSIJdN.png");
   background-repeat: repeat;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -295,9 +293,6 @@ tbody tr:nth-child(odd) th {
   padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
-    
-  background-image: url("public/symphony.png");
-  background-repeat: repeat;
 }
 
 
@@ -339,7 +334,7 @@ tbody tr:nth-child(odd) th {
 .post {
   margin-bottom: 4em;
     
-  background-image: url("public/symphony.png");
+  background-image: url("http://i.imgur.com/ljSIJdN.png");
   background-repeat: repeat;
 }
 
